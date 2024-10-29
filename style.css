@@ -1,9 +1,9 @@
-body{
+body {
     color: white;
     background-color: black;
 }
 
-section{
+section {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -11,20 +11,20 @@ section{
     justify-content: center;
 }
 
-div{
+div {
     margin-right: 20px;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
 }
 
-img{
+img {
     height: 200px;
 }
 
-.categoria-vídeos{
+.categoria-vídeos {
     display: flex;
     overflow-x: auto;
-gap: 10px;    
+    gap: 10px;
 }
